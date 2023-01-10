@@ -15,5 +15,5 @@
 
 - 📫 How to reach me **achmd.fznn@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/ahmfzn00/ahmfzn00/blob/main/My%20Resume.pdf" target="blank">Resume</a>
 <br/>
