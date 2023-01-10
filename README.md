@@ -11,7 +11,7 @@
 
 - 🤝 I’m available for Freelancing.
 
-- 🌠 I’m currently learning React JS, Laravel and Kotlin
+- 🌠 I’m currently learning React JS, Laravel & Kotlin
 
 - 📫 How to reach me **achmd.fznn@gmail.com**
 
