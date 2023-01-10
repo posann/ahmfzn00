@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm 
-Fauzan</h1>
+<h1 align="center">Hi👋, I'm Fauzan <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"></h1>
 <h3 align="center">Just a Software Engineer from Makassar, South Celebes</h3>
 
 <a target="_blank" align="center">
@@ -12,7 +11,7 @@ Fauzan</h1>
 
 - 🤝 I’m available for Freelancing.
 
-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> I’m currently learning React JS, Laravel and Kotlin
+- 🌠 I’m currently learning React JS, Laravel and Kotlin
 
 - 📫 How to reach me **achmd.fznn@gmail.com**
 
