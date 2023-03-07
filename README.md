@@ -5,15 +5,15 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://petikjombang.com" target="blank">Pesantren PeTIK Jombang</a>
+- 🔭 <a href="https://petikjombang.com" target="blank">Pesantren PeTIK Jombang</a>
 
-- 🌱 I’m currently Working on Lecturer and Software Engineeer
+- 🌱  Software Engineeer (Mobile/Web)
 
-- 🤝 I’m available for Freelancing.
+- 🤝 Lecturer and Freelancing.
 
-- 🌠 I’m currently learning React JS, Laravel & Kotlin
+- 🌠 React JS, Laravel & Kotlin
 
-- 📫 How to reach me **achmd.fznn@gmail.com**
+- 📫 **achmd.fznn@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/ahmfzn00/ahmfzn00/blob/main/My%20Resume.pdf" target="blank">Resume</a>
+- 📄  My Experiences <a href="https://github.com/ahmfzn00/ahmfzn00/blob/main/My%20Resume.pdf" target="blank">Resume</a>
 <br/>
