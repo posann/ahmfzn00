@@ -7,9 +7,9 @@
 
 - 🔭 <a href="https://petikjombang.com" target="blank">Pesantren PeTIK Jombang</a>
 
-- 🌱  Software Engineeer (Mobile/Web)
+- 🌱  Software Engineer (Mobile/Web Development)
 
-- 🤝 Lecturer and Freelancing.
+- 🤝 Lecturer and Freelancer
 
 - 🌠 React JS, Laravel & Kotlin
 
