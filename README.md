@@ -7,11 +7,15 @@
 
 - 🔭 <a href="https://petikjombang.com" target="blank">Pesantren PeTIK Jombang</a>
 
-- 🌱  Software Engineer (Mobile/Web Development)
+- 🌱 Full Stack Engineer
 
 - 🤝 Lecturer and Freelancer
 
-- 🌠 React JS, Laravel & Kotlin
+- 🌠 Next JS (frontend)
+
+- 🥇 Laravel (backend)
+
+- ⚡ Kotlin (mobile)
 
 - 📫 **achmd.fznn@gmail.com**
 
