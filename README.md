@@ -2,7 +2,7 @@
 <h3 align="center">Just a Software Engineer from Makassar, South Celebes</h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="285" width="430" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="255" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 - 🔭 <a href="https://petikjombang.com" target="blank">Pesantren PeTIK Jombang</a>
