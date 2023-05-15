@@ -1,5 +1,5 @@
-<h2 align="center">Hi👋, I'm Fauzan</h2>
-<h3 align="center">Just a Software Engineer from Makassar, South Celebes</h3>
+<h2 align="center">Hello👋, I'm Fauzan</h2>
+<h3 align="center">Just a software engineer from South Celebes</h3>
 
 
 
