@@ -1,4 +1,4 @@
-<h2 align="center">Hi👋, I'm Fauzan <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"></h1>
+<h2 align="center">Hi👋, I'm Fauzan</h2>
 <h3 align="center">Just a Software Engineer from Makassar, South Celebes</h3>
 
 
